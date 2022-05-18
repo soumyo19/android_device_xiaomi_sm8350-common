@@ -271,4 +271,10 @@ persist.vendor.radio.report_codec=1
 persist.vendor.radio.vdp_on_ims_cap=1
 persist.vendor.qti.telephony.vt_cam_interface=2
 
-
+# Dalvik
+dalvik.vm.heapgrowthlimit=256m
+dalvik.vm.heapmaxfree=16m
+dalvik.vm.heapminfree=512k
+dalvik.vm.heapsize=512m
+dalvik.vm.heapstartsize=8m
+dalvik.vm.heaptargetutilization=0.75
