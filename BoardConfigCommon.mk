@@ -232,4 +232,4 @@ CONFIG_IEEE80211AX := true
 CONFIG_IEEE80211AC := true
 
 # Inherit proprietary blobs
--include vendor/xiaomi/sm8350-common/BoardConfigVendor.mk
+include vendor/xiaomi/sm8350-common/BoardConfigVendor.mk
