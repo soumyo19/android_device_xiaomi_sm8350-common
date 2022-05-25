@@ -57,3 +57,7 @@ persist.sys.fflag.override.settings_provider_model=false
 # Sensors
 persist.vendor.sensors.enable.mag_filter=true
 
+# LMKD
+ro.config.low_ram=false
+ro.lmk.log_stats=false
+
