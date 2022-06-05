@@ -66,10 +66,6 @@ persist.sys.fflag.override.settings_provider_model=false
 # Sensors
 persist.vendor.sensors.enable.mag_filter=true
 
-# Spark-OS
-ro.spark.maintainer= Fahmid Islam Soumyo
-ro.spark.maintainer.username= Fahmid Islam Soumyo
-
 # Dalvik
 pm.dexopt.install=speed-profile
 pm.dexopt.bg-dexopt=everything
