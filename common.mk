@@ -141,6 +141,7 @@ PRODUCT_PACKAGES_DEBUG += \
 
 # Camera
 PRODUCT_PACKAGES += \
+    vendor.qti.hardware.camera.device@1.0.vendor \
     libgui_vendor \
     Snap
 
